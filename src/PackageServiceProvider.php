@@ -1,5 +1,5 @@
 <?php
-namespace Ali\DmcDashboard;
+namespace Ali\DashboardKit;
  
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Filesystem\Filesystem;

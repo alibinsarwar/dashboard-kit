@@ -1,4 +1,4 @@
-# Laravel Material Dashboard Package
+# Laravel Bootstrap 5 Dashboard Kit Package
 
 This package provides a Laravel integration for the Bootstrap 5 Dashboard Kit . It offers pre-built controllers, routes, public files (CSS, JS, images), and views to help you quickly set up an admin dashboard in your Laravel application.
 

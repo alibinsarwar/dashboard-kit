@@ -1,11 +1,11 @@
 {
-    "name": "alibinsarwar/dmc-dashboard",
+    "name": "alibinsarwar/dashboard-kit",
     "description": "admin dashboard for laravel",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Ali\\DmcDashboard\\": "src/"
+            "Ali\\DashboardKit\\": "src/"
         }
     },
     "authors": [
@@ -19,7 +19,7 @@
      "extra": {
         "laravel": {
             "providers": [
-                "Ali\\DmcDashboard\\PackageServiceProvider"
+                "Ali\\DashboardKit\\PackageServiceProvider"
             ]
         }
     }
