@@ -1,0 +1,26 @@
+{
+    "name": "alibinsarwar/dmc-dashboard",
+    "description": "admin dashboard for laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alibinsarwar\\DmcDashboard\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Ali",
+            "email": "alibinsarwar2001@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+     "extra": {
+        "laravel": {
+            "providers": [
+                "Alibinsarwar\\MaterialDashboard\\PackageServiceProvider"
+            ]
+        }
+    }
+}
