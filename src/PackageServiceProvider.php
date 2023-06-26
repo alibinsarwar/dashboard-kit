@@ -1,5 +1,5 @@
 <?php
-namespace Alibinsarwar\DmcDashboard;
+namespace Ali\DmcDashboard;
  
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Filesystem\Filesystem;

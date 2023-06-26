@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Alibinsarwar\\DmcDashboard\\": "src/"
+            "Ali\\DmcDashboard\\": "src/"
         }
     },
     "authors": [
@@ -19,7 +19,7 @@
      "extra": {
         "laravel": {
             "providers": [
-                "Alibinsarwar\\MaterialDashboard\\PackageServiceProvider"
+                "Ali\\MaterialDashboard\\PackageServiceProvider"
             ]
         }
     }
