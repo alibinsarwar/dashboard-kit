@@ -11,7 +11,7 @@ This package provides a Laravel integration for the Bootstrap 5 Dashboard Kit . 
 ## Installation
 
 ```bash
-composer require alibinsarwar/dmc-dashboard:dev-main
+composer require alibinsarwar/dashboard-kit:dev-main
 
 ```
 ## Usage
