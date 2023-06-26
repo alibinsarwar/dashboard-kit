@@ -19,7 +19,7 @@
      "extra": {
         "laravel": {
             "providers": [
-                "Ali\\MaterialDashboard\\PackageServiceProvider"
+                "Ali\\DmcDashboard\\PackageServiceProvider"
             ]
         }
     }
