@@ -29,5 +29,5 @@ For detailed information on using the Laravel Material Dashboard package, please
 
 ## Contributing
 
-If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/alibinsarwar/dmc-dashboard.git).
+If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/alibinsarwar/dashboard-kit.git).
 
