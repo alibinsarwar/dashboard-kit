@@ -4,8 +4,8 @@ This package provides a Laravel integration for the Bootstrap 5 Dashboard Kit . 
 
 ## Preview
 
-<img width="400" align="center" src="/img/home.PNG" alt='code' />
-<img width="400" align="center" src="/img/profile.PNG" alt='code' />
+<img width="800" align="center" src="/img/home.PNG" alt='code' />
+<img width="800" align="center" src="/img/profile.PNG" alt='code' />
 
 
 ## Installation
