@@ -16,7 +16,7 @@ composer require alibinsarwar/dashboard-kit:dev-main
 ```
 ## Usage
 
-Once the package is installed and configured, you can access the Material Dashboard by navigating to `resources/views/admin` in your Laravel application.
+Once the package is installed and configured, you can access the Material Dashboard views by navigating to `resources/views/admin` in your Laravel application.
 
 The package provides pre-built controllers and routes for handling various admin functionalities. You have `admin.php` file in routes folder you can either use this file or define them in your `web.php`. You can customize and extend these controllers as per your requirements.
 
