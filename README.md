@@ -7,13 +7,13 @@ This package provides a Laravel integration for the Bootstrap 5 Dashboard Kit . 
 <img width="800" align="center" src="/img/home.PNG" alt='code' />
 <img width="800" align="center" src="/img/profile.PNG" alt='code' />
 
-
 ## Installation
 
 ```bash
-composer require alibinsarwar/dashboard-kit:dev-main
+composer require alisarwar/dashboard-kit:dev-main
 
 ```
+
 ## Usage
 
 Once the package is installed and configured, you can access the Dashboard Kit views by navigating to `resources/views/admin` in your Laravel application.
@@ -26,8 +26,6 @@ The package's public files, including CSS, JS, and images, are located in the `p
 
 For detailed information on using the Laravel Material Dashboard package, please refer to the [official documentation](https://dashboardkit.gumroad.com/l/dashboardkit-free-flask?layout=profile).
 
-
 ## Contributing
 
 If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/alibinsarwar/dashboard-kit.git).
-

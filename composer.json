@@ -1,26 +1,26 @@
 {
-    "name": "alibinsarwar/dashboard-kit",
-    "description": "admin dashboard for laravel",
-    "type": "library",
-    "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Ali\\DashboardKit\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "Muhammad Ali",
-            "email": "alibinsarwar2001@gmail.com"
-        }
-    ],
-    "minimum-stability": "stable",
-    "require": {},
-     "extra": {
-        "laravel": {
-            "providers": [
-                "Ali\\DashboardKit\\PackageServiceProvider"
-            ]
-        }
+  "name": "alisarwar/dashboard-kit",
+  "description": "admin dashboard for laravel",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Ali\\DashboardKit\\": "src/"
     }
+  },
+  "authors": [
+    {
+      "name": "Muhammad Ali",
+      "email": "alibinsarwar2001@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Ali\\DashboardKit\\PackageServiceProvider"
+      ]
+    }
+  }
 }
